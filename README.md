@@ -32,3 +32,6 @@ configuration = [
     [1, 1],  # Резистор 3 соединен с обоими источниками
 ]
 ```
+## Видео
+https://github.com/user-attachments/assets/1e0a8a25-84e1-43f6-bd0a-e4000a496253
+
